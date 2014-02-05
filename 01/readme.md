@@ -39,7 +39,7 @@ Going forward I want to work to lower the amount of money we need students to fr
 
 ## Transparency and Legibility
 
-Without further ado: I’m attaching a **Profit & Loss Detail statement** recently exported from our accounting software QuickBooks. This includes a line item for every incoming and outgoing transaction on our books, sorted by category.
+Without further ado: I’m attaching a [**Profit & Loss Detail statement** (pdf)](https://github.com/SFPC/finance-and-administration/blob/master/01/data/130910-140121/as-exported/pdf/profit-and-loss-detail.pdf?raw=true) recently exported from our accounting software QuickBooks. This includes a line item for every incoming and outgoing transaction on our books, sorted by category.
 
 Transparency...accomplished! Just kidding. One comment I saw over-and-over in your survey comments (stay tuned for those in a separate thread) was that _transparency_ does not equal _legibility_. Put another way: just because you were all shared on my Google Spreadsheets doesn’t mean that I’m doing an adequate job telling the story of what’s going on with your money. That’s exactly right. 
 
