@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="318 -36 800 600" enable-background="new 318 -36 800 600" xml:space="preserve">
+<g>
+	<path fill="#FF9900" stroke="#FFFFFF" d="M741.7,250.5L555,144.6C593.1,77.4,664.4,35.8,741.7,35.8V250.5L741.7,250.5"/>
+	<text transform="matrix(1 0 0 1 638.5712 113.641)" fill="#FFFFFF" font-family="'ApercuPro'" font-size="16">$4,131</text>
+</g>
+<g>
+	<path fill="#DC3912" stroke="#FFFFFF" d="M741.7,250.5l-95,192.6c-106.3-52.4-150-181.2-97.6-287.5c1.8-3.7,3.8-7.4,5.8-11
+		L741.7,250.5L741.7,250.5"/>
+	<text transform="matrix(1 0 0 1 579.977 302.8417)" fill="#FFFFFF" font-family="'ApercuPro'" font-size="16">$6,378</text>
+</g>
+<g>
+	<path fill="#3366CC" stroke="#FFFFFF" d="M741.7,250.5V35.8c118.6,0,214.7,96.1,214.7,214.7s-96.1,214.7-214.7,214.7
+		c-32.9,0-65.4-7.6-95-22.1L741.7,250.5L741.7,250.5"/>
+	<text transform="matrix(1 0 0 1 850.3281 292.8788)" fill="#FFFFFF" font-family="'ApercuPro'" font-size="16">$14,098</text>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 1012.2297 282.7357)" fill="#222222" font-family="'ApercuPro-Bold'" font-size="16">Teachers</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1034.9819 306.8339)" fill="#9E9E9E" font-family="'ApercuPro'" font-size="16">57.3%</text>
+	</g>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-opacity="0.7" d="M932.7,288.1h79l0,0h66.5"/>
+	<circle stroke="#000000" stroke-miterlimit="10" cx="932.7" cy="288.1" r="2.6"/>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 370.024 293.2728)" fill="#222222" font-family="'ApercuPro-Bold'" font-size="16">Administration</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 370.0236 317.3709)" fill="#9E9E9E" font-family="'ApercuPro'" font-size="16">25.9%</text>
+	</g>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-opacity="0.7" d="M555.4,298.6h-81.7l0,0H370"/>
+	<circle cx="555.4" cy="298.6" r="2.6"/>
+</g>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 360.0563 106.2387)" fill="#222222" font-family="'ApercuPro-Bold'" font-size="16">Visitors</text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 360.0559 130.337)" fill="#9E9E9E" font-family="'ApercuPro'" font-size="16">16.8%</text>
+	</g>
+</g>
+<g>
+	<path fill="none" stroke="#000000" stroke-opacity="0.7" d="M611.3,111.6H457.2l0,0h-97.1"/>
+	<circle cx="611.3" cy="111.6" r="2.6"/>
+</g>
+<text transform="matrix(1 0 0 1 370.024 497.7724)" fill="#9E9E9E" font-family="'Apercu-Light'" font-size="9.75">source: http://github.com/sfpc/open-administration/01/data/130910-140121/subcontractors-by-category.csv</text>
+</svg>
