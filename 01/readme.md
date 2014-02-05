@@ -2,14 +2,16 @@ Hi all,
 
 Today I’m happy to present you all with a report on _money_. 
 
-1. $700 Tuition Refund
-2. Forthcoming Expenses
-3. Transparency and Legibility
-4. Ways in Which Things are Complicated
-5. Expenses by Category (chart and definitions)
-6. Expenses by Vendor (chart)
-7. Salaries
-8. “To Radical Openness and Generosity”
+Contents:
+
+1. [$700 Tuition Refund](#700-tuition-refund)
+2. [Forthcoming Expenses](#forthcoming-expenses)
+3. [Transparency and Legibility](#transparency-and-legibility)
+4. [Ways in Which Things are Complicated](#ways-in-which-things-are-complicated)
+5. [Expenses by Category (chart and definitions)](#expenses-by-category)
+6. [Expenses by Vendor (chart)](#expenses-by-vendor)
+7. [Salaries](#salaries)
+8. [“To Radical Openness and Generosity”](#to-radical-openness-and-generosity)
 
 ## $700 Tuition Refund
 
