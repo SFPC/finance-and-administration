@@ -62,7 +62,7 @@ On October 25th, I signed us up for [QuickBooks Online](http://QuickBooks.intuit
 
 While QuickBooks allows for a freakishly detailed level of record keeping, it took me a little while to grasp some of the accounting terminology, so I wanted to walk through our spending categories.
 
-[![](charts/png/expenses-by-category.png)](data/120910-140121/formatted/expenses-by-category.csv)
+[![](charts/png/expenses-by-category.png)](data/130910-140121/formatted/expenses-by-category.csv)
 
 ### Subcontractors
 
@@ -108,13 +108,13 @@ $150 of beer. QuickBooks has finicky definitions of nearly identical categories 
 
 This chart represents the _things_ we bought (meaning it excludes salaries of teachers, staff, and visitors), as listed by the item's vendor.
 
-[![](charts/png/expenses-by-vendor.png)](data/120910-140121/formatted/expenses-by-vendor.csv)
+[![](charts/png/expenses-by-vendor.png)](data/130910-140121/formatted/expenses-by-vendor.csv)
 
 ## Salaries
 
 People (or “subcontractors” to use accounting parlance) are the school’s biggest expense, so I wanted to provide a better breakdown of those costs based on the profit and loss.
 
-[![](charts/png/subcontractors-by-category.png)](data/120910-140121/formatted/subcontractors-by-category.csv)
+[![](charts/png/subcontractors-by-category.png)](data/130910-140121/formatted/subcontractors-by-category.csv)
 
 For administration, the teachers offered me an hourly rate of $25 at a projected 20 hours a week, although I track my hours and am paid based on my actual time working, not a flat fee or projection. Anecdotally, this is $10 more per hour than most of my friends make in NYC working jobs in and outside of the field of arts and culture, but it is less than I make doing freelance web design.
 
