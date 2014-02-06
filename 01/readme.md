@@ -110,7 +110,7 @@ $150 of beer. QuickBooks has finicky definitions of nearly identical categories 
 
 This chart represents the _things_ we bought (meaning it excludes salaries of teachers, staff, and visitors), as listed by the item's vendor.
 
-[![](charts/png/expenses-by-vendor.png)](data/130910-140121/formatted/expenses-by-vendor.csv)
+[![](https://raw.github.com/SFPC/finance-and-administration/master/01/charts/png/expenses-by-vendor.png)](data/130910-140121/formatted/expenses-by-vendor.csv)
 
 ## Salaries
 
