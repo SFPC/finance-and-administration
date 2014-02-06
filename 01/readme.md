@@ -171,9 +171,9 @@ As with most things this first semester, we had to figure out appropriate fees a
 
 There were many visitors who came to share their insights with our community for free. We thank them gratefully with respect and love: Bret Victor, Ramsey Nassar, Eva Schindling, Jesse Louis-Rosenberg, Brian House, Joanne McNeil, Syd Lieberman, Adam Magyar, Takahiro Yamaguchi, Cederic Kiefer, Giorgia Lupi, Gabriele Rossi, and Paola Antonelli. (There were at least a dozen more artists and engineers who came to our Thursday open dinners. If we are missing your name in this letter, please let us know ([casey@sfpc.io](mailto:casey@sfpc.io)) or submit a pull request. We want to acknowledge every member of the SFPC community.)
 
-Many other visitors came to SFPC for a fraction of what is considered a fair fee, in the spirit of sharing their practice with our community. Jurg Lehni, for example, accepted pay only for the travel and accomodation costs of visiting SFPC. This helped us to lower costs, making art and technology education more accessible.
+Many other visitors came to SFPC for a fraction of what is considered a fair fee, in the spirit of sharing their practice with our community. Jurg Lehni, for example, accepted pay only for the travel and accomodation costs of visiting SFPC.
 
-Some artists were able to external funding. Jacob Tonski, for example, visited for the same amount of time as Caitlin Morris, but he was able to obtain a travel grant from the university where he teaches, and he agreed that we could simply match it.
+Some artists were able to obtain external funding. Jacob Tonski, for example, visited for the same amount of time as Caitlin Morris, but he had a travel from the university where he teaches, and he agreed that we could simply match it.
 
 Below is the complete list of visitors we paid:
 
