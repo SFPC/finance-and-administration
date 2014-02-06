@@ -159,10 +159,20 @@ So, after including yet-to-be-paid maximum of $1000 interim administrative salar
 | Amit Pitaru | Teacher | $0 |
 | **Total** || **$31,878** |
 
-We also feel strongly about paying visiting artists, critics, and lecturers who came to give talks, lead workshops. This is the complete list of people we paid, by fee:
+We feel strongly about paying visiting artists, critics, and lecturers who came to give talks, lead workshops. 
+
+<<<<<<< HEAD
+##Updates about Visiting Artists fee
 
 * Shortly after we published this document and information about visiting artist's fee, we got a response from one of the visiting artists that we should have informed them before publishing this document. We acknowledge this is our shortcoming and we are editing out the information until we get everyone's approval. 
 * There was a general consensus that the school is operating on opensource ideology: in it's teaching methodology as well as administration. The faculty and students were well aware of the fact the school's finance will be published openly at some point. Although we did our best to inform visiting artists, we could have done a better job in communicating clearly about the ways which we decided to share this information. Please understand this school is a continuing work in progress and we are learning every step of the way. Thank you - taeyoon choi.  
+=======
+Below is the complete list of people we paid, by fee:
+
+**NOTE: Shortly after we published this document and information about visiting artist's fee, we got a response from one of the visiting artists that we should have informed them before publishing this document. We acknowledge this is our shortcoming and we are editing out the information until we get everyone's approval.**
+
+** There was a general consensus that the school is operating on opensource ideology: in it's teaching methodology as well as administration. The faculty and students were well aware of the fact the school's finance will be published openly at some point. Although we did our best to inform visiting artists, we could have done a better job in communicating clearly about the ways which we decided to share this information. Please understand this school is a continuing work in progress and we are learning every step of the way. Thank you - taeyoon choi.**
+>>>>>>> 65fdfad906d13dc81bbe9b3c641803cf3f831618
 
 
 | Name | Role | Fee |
@@ -176,13 +186,22 @@ We also feel strongly about paying visiting artists, critics, and lecturers who 
 | Jeff Feddersen | Kitchen Table Coders | $ |
 | Ted Hayes | Kitchen Table Coders | $  |
 | David Nolen | Kitchen Table Coders | $  |
-| Christine Sun Kim and Translator | Guest Lecture | $  |
+<<<<<<< HEAD
+| Christine Sun Kim| Guest Lecture | $  |
+=======
+| Christine Sun Kim | Guest Lecture | $  |
+>>>>>>> 65fdfad906d13dc81bbe9b3c641803cf3f831618
 | Jacob Gaboury | Guest Lecture | $ |
 | Kyle McDonald | Guest Lecture | $  |
 | Brian Droitcour | Guest Lecture | $   |
 | Mmuseumm Curator | Art of Walking Fieldtrip | $  |
 
-All of the teachers invited guests to the school, so the invitations varied. For example, some visitors were very casual, like Zach Gage and Golan Levin; some asked if they can visit; and other visitors were scheduled months in advance.
+All of the teachers invited guests to the school, so the invitations varied. For example, some visitors were very casual, like Zach Gage and Golan Levin; some asked if they can visit; and other visitors were scheduled months in advance. Many, or Most, of the visiting artists came to SFPC with the spirit of sharing their practice and support for the community. Money was not an issue with the visiting artists. There were many more visiting artists who came for free and share so much of their insights. We thank them greatfully with respect and love. 
+
+Visiting artists list include special guests speakers for our opening event: Bret Victor and Ramsey Nassar, and Eva Schindling, Jesse Louis-Rosenberg, Brian House, Joanne McNeil, Syd Lieberman, Adam Magyar, Takahiro Yamaguchi, Cederic Kiefer, Giorgia Lupi, Gabriele Rossi, Paola Antonelli. There were at least a dozen more artists and engineers who came to visit our Thursday Open Dinners. SFPC was a community experience at it's best, and we will do our best to acknowledge everyone who made it special. 
+
+Also to note, many visitors were paid just for the actual cost of visiting SFPC. The fee for Jurg Lehni was to cover bus from Boston, flight change difference (he originally had flight from Boston back to Switzerland) and a bus from NYC to JFK. It's just an example of visiting artist's willingness to cooperate with our school's mission toward lower cost, accessible education of art and technology. 
+ 
 
 As you can see, the fees also vary widely, even within categories. One reason is that we wanted to compensate visiting artists proportional to their time commitment and level of involvement, ranging from an hour long artist talk to a week long teaching residency. Another reason for the spectrum is external funding. Jacob Tonski, for example, visited for the same amount of time as Caitlin Morris, but he was able to obtain a travel grant from the university where he teaches, and he agreed that we could simply match that. 
 
