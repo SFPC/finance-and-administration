@@ -76,7 +76,7 @@ Office expenses are the little things it takes to exist in a space (not includin
 
 ### Rent or Lease
 
-This was our home base at 33 Flatbush. We had agreed to pay Al a percentage of the money we took in. This was dispersed in three monthly installments of $2000, plus an extra $1500 at the end.
+This was our home base. We had agreed to pay a percentage of the money we took in. This was dispersed in three monthly installments plus an extra payment at the end.
 
 ### Supplies
 
