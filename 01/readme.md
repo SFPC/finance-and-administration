@@ -160,6 +160,7 @@ So, after including yet-to-be-paid maximum of $1000 interim administrative salar
 | **Total** || **$31,878** |
 
 We feel strongly about paying visiting artists, critics, and lecturers who came to give talks, lead workshops. 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 ##Updates about Visiting Artists fee
@@ -167,11 +168,17 @@ We feel strongly about paying visiting artists, critics, and lecturers who came 
 * Shortly after we published this document and information about visiting artist's fee, we got a response from one of the visiting artists that we should have informed them before publishing this document. We acknowledge this is our shortcoming and we are editing out the information until we get everyone's approval. 
 * There was a general consensus that the school is operating on opensource ideology: in it's teaching methodology as well as administration. The faculty and students were well aware of the fact the school's finance will be published openly at some point. Although we did our best to inform visiting artists, we could have done a better job in communicating clearly about the ways which we decided to share this information. Please understand this school is a continuing work in progress and we are learning every step of the way. Thank you - taeyoon choi.  
 =======
+=======
+
+>>>>>>> 65fdfad906d13dc81bbe9b3c641803cf3f831618
 Below is the complete list of people we paid, by fee:
 
 **NOTE: Shortly after we published this document and information about visiting artist's fee, we got a response from one of the visiting artists that we should have informed them before publishing this document. We acknowledge this is our shortcoming and we are editing out the information until we get everyone's approval.**
 
 ** There was a general consensus that the school is operating on opensource ideology: in it's teaching methodology as well as administration. The faculty and students were well aware of the fact the school's finance will be published openly at some point. Although we did our best to inform visiting artists, we could have done a better job in communicating clearly about the ways which we decided to share this information. Please understand this school is a continuing work in progress and we are learning every step of the way. Thank you - taeyoon choi.**
+<<<<<<< HEAD
+>>>>>>> 65fdfad906d13dc81bbe9b3c641803cf3f831618
+=======
 >>>>>>> 65fdfad906d13dc81bbe9b3c641803cf3f831618
 
 
@@ -187,7 +194,11 @@ Below is the complete list of people we paid, by fee:
 | Ted Hayes | Kitchen Table Coders | $  |
 | David Nolen | Kitchen Table Coders | $  |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | Christine Sun Kim| Guest Lecture | $  |
+=======
+| Christine Sun Kim | Guest Lecture | $  |
+>>>>>>> 65fdfad906d13dc81bbe9b3c641803cf3f831618
 =======
 | Christine Sun Kim | Guest Lecture | $  |
 >>>>>>> 65fdfad906d13dc81bbe9b3c641803cf3f831618
