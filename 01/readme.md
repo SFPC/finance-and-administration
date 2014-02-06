@@ -161,22 +161,26 @@ So, after including yet-to-be-paid maximum of $1000 interim administrative salar
 
 We also feel strongly about paying visiting artists, critics, and lecturers who came to give talks, lead workshops. This is the complete list of people we paid, by fee:
 
+* Shortly after we published this document and information about visiting artist's fee, we got a response from one of the visiting artists that we should have informed them before publishing this document. We acknowledge this is our shortcoming and we are editing out the information until we get everyone's approval. 
+* There was a general consensus that the school is operating on opensource ideology: in it's teaching methodology as well as administration. The faculty and students were well aware of the fact the school's finance will be published openly at some point. Although we did our best to inform visiting artists, we could have done a better job in communicating clearly about the ways which we decided to share this information. Please understand this school is a continuing work in progress and we are learning every step of the way. Thank you - taeyoon choi.  
+
+
 | Name | Role | Fee |
 | ---- | ---- | --- |
-| Caitlin Morris | Visiting Artist | $800 |
-| Jürg Lehni | Visiting Artist | $575 |
-| Marcela Godoy | Visiting Artist | $500 |
-| Jacob Tonski | Visiting Artist | $400 |
-| Dan Phiffer | Visiting Artist | $200 |
-| Gabriella Levine | Visiting Artist | $200 |
-| Jeff Feddersen | Kitchen Table Coders | $200 |
-| Ted Hayes | Kitchen Table Coders | $200 |
-| David Nolen | Kitchen Table Coders | $200 |
-| Christine Sun Kim and Translator | Guest Lecture | $200 |
-| Jacob Gaboury | Guest Lecture | $200 |
-| Kyle McDonald | Guest Lecture | $200 |
-| Brian Droitcour | Guest Lecture | $200  |
-| Mmuseumm Curator | Art of Walking Fieldtrip | $50 |
+| Caitlin Morris | Visiting Artist | $  |
+| Jürg Lehni | Visiting Artist | $  |
+| Marcela Godoy | Visiting Artist | $  |
+| Jacob Tonski | Visiting Artist | $  |
+| Dan Phiffer | Visiting Artist | $  |
+| Gabriella Levine | Visiting Artist | $  |
+| Jeff Feddersen | Kitchen Table Coders | $ |
+| Ted Hayes | Kitchen Table Coders | $  |
+| David Nolen | Kitchen Table Coders | $  |
+| Christine Sun Kim and Translator | Guest Lecture | $  |
+| Jacob Gaboury | Guest Lecture | $ |
+| Kyle McDonald | Guest Lecture | $  |
+| Brian Droitcour | Guest Lecture | $   |
+| Mmuseumm Curator | Art of Walking Fieldtrip | $  |
 
 All of the teachers invited guests to the school, so the invitations varied. For example, some visitors were very casual, like Zach Gage and Golan Levin; some asked if they can visit; and other visitors were scheduled months in advance.
 
