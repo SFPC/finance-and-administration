@@ -2,31 +2,19 @@ Delicious Library Bibliography (MLA Style)
 
 Title. Publisher, Year.
 
-Title. Publisher, Year.
-
-Title. Publisher, Year.
-
-Title. Publisher, Year.
-
-Title. Publisher, Year.
-
-Title. Publisher, Year.
-
-Title. Publisher, Year.
-
-Title. Publisher, Year.
-
-Title. Publisher, Year.
-
-Title. Publisher, Year.
-
-Title. Publisher, Year.
+Beyond Interaction. Publisher, Year.
 
 Bulletins of the Serving Library #2. Sternberg Press, 2012.
 
 Bulletins of the Serving Library #4. Sternberg Press, 2012.
 
+Dazed & Confused III/26. Publisher, Year.
+
 MATHEMATICS AND PHYSICS FOR PR. Cengage, Year.
+
+Sabun: Sa O Toru Koto De Atarashii Nanika Ga Umareru. Publisher, Year.
+
+School for Poetic Computation Spring 2014 Zine. Publisher, Year.
 
 Zokusei. Publisher, Year.
 
@@ -38,15 +26,23 @@ Annink, Ed, and Ineke Schwartz. Bright Minds, Beautiful Ideas: Parallel Thoughts
 
 Antonelli, Paola, Jamer Hunt, and Alexandra Midal. Talk to Me: Design and the Communication between People and Objects. The Museum of Modern Art, New York, 2011.
 
+Appleman, Dan. How Computer Programming Works. Apress, 2000.
+
 Atwood, Jeff. Effective Programming: More Than Writing Code. CreateSpace Independent Publishing Platform, 2012.
 
 Baggio, Daniel Lélis, et al. Mastering OpenCV with Practical Computer Vision Projects. Packt Publishing, 2012.
 
 Bailey, Mike, and Steve Cunningham. Graphics Shaders: Theory and Practice, Second Edition. A K Peters/CRC Press, 2011.
 
+Bailey, Stuart, Angie Keefer, and David Reinfurt. Bulletins of the Serving Library #3. Sternberg Press, 2012.
+
 Banzi, Massimo. Getting Started with Arduino. Maker Media, Inc, 2011.
 
 Berger, John. Ways of Seeing: Based on the BBC Television Series. Penguin Books, 1990.
+
+Bertran, Ishac. code {poems}. Publisher, Year.
+
+Biancuzzi, Federico, and Chromatic. Masterminds of Programming: Conversations with the Creators of Major Programming Languages (Theory in Practice (O'Reilly)). O'Reilly Media, 2009.
 
 Bohnacker, Hartmut, et al. Generative Design: Visualize, Program, and Create with Processing. Princeton Architectural Press, 2012.
 
@@ -57,6 +53,10 @@ Brooker, Darren. Essential CG Lighting Techniques. Focal Press, 2002.
 Cairo, Alberto. The Functional Art: An introduction to information graphics and visualization. New Riders, 2012.
 
 Chacon, Scott. Pro Git. Apress, 2009.
+
+Choi, Taeyoon. Anti-Manifesto. Publisher, Year.
+
+Choi, Taeyoon. Urban programming 101: Stage direction. Publisher, Year.
 
 Chun, Wendy Hui Kyong. Programmed Visions: Software and Memory. The MIT Press, 2013.
 
@@ -74,6 +74,10 @@ Dunne, Anthony. Hertzian Tales: Electronic Products, Aesthetic Experience, and C
 
 Euphrates. EUPHRATES BOOK (2010) ISBN: 4887522355 [Japanese Import]. DNP Art Communications, 10.
 
+Faludi, Robert. Building Wireless Sensor Networks: with ZigBee, XBee, Arduino, and Processing. O'Reilly Media, 2011.
+
+Fletcher, Alan. The Art of Looking Sideways. Phaidon Press, 2001.
+
 Gelernter, David. Muse in the Machine. Free Press, 1994.
 
 Goldsmith, Kenneth. Uncreative Writing: Managing Language in the Digital Age. Columbia University Press, 2011.
@@ -82,11 +86,19 @@ Gonzalez, Rafael C., and Richard E. Woods. Digital Image Processing. Prentice Ha
 
 Gould, David. Complete Maya Programming: An Extensive Guide to MEL and C++ API. Morgan Kaufmann, 2003.
 
+Graf, Calvin R. Exploring Light, Radio and Sound Energy, With Projects. Tab Books, 1985.
+
+Gralla, Preston. How the Internet Works. Que Pub, 1998.
+
 Haddock, Steven, and Casey Dunn. Practical Computing for Biologists. Sinauer Associates, Inc., 2010.
 
 Harrington, Peter. Machine Learning in Action. Manning Publications, 2012.
 
 Henney, Kevlin. 97 Things Every Programmer Should Know: Collective Wisdom from the Experts. O'Reilly Media, 2010.
+
+Hofmeester, Kay, and Esther De St.Germain. Presence: New Media for Older People. Netherlands Design Institute, 2000.
+
+Hubbard, John R. Schaum's Outline of Data Structures with Java, Second Edition. McGraw-Hill, 2007.
 
 Igoe, Tom. Making Things Talk: Using Sensors, Networks, and Arduino to see, hear, and feel your world. Maker Media, Inc, 2011.
 
@@ -106,11 +118,19 @@ Klanten, Robert, et al. Data Flow 2: Visualizing Information in Graphic Design. 
 
 Klanten, Robert, S. Ehmann, and V. Hanschke. A Touch of Code: Interactive Installations and Experiences. Gestalten, 2011.
 
+Kobayashi, Shigeru. Prototyping Lab. Publisher, Year.
+
 Kramer, Jeff, et al. Hacking the Kinect. Apress, 2012.
 
 Kundert-Gibbs, John. Maya: Secrets of the Pros with CDROM. Sybex, 2002.
 
+Laboratory, Keio University Masahiko Sato. Literacy of the Image. Publisher, Year.
+
 Laganière, Robert. OpenCV 2 Computer Vision Application Programming Cookbook. Packt Publishing, 2011.
+
+Lapham, Lewis (Ed.). Lapham`s Quarterly. Lewis Lapham, 2012.
+
+Lareine, Elodie. Vast: the perfect, the circular, the subjugated. Publisher, Year.
 
 Lehrer, Jonah. Proust Was a Neuroscientist. Mariner Books, 2008.
 
@@ -119,6 +139,12 @@ Lipovaca, Miran. Learn You a Haskell for Great Good!: A Beginner's Guide. No Sta
 Loy, Gareth. Musimathics: The Mathematical Foundations of Music. The MIT Press, 2011.
 
 Loy, Gareth. Musimathics: The Mathematical Foundations of Music. The MIT Press, 2011.
+
+Maeda, John. Design by Numbers. The MIT Press, 2001.
+
+Maeda, John. John Maeda : Nature. Actes Sud and Fondation Cartier pour l'art Contemporarain, 2005.
+
+Maeda, John. Maeda @ Media. Rizzoli, 2000.
 
 Marmanis, Haralambos, and Dmitry Babenko. Algorithms of the Intelligent Web. Manning Publications, 2009.
 
@@ -146,6 +172,8 @@ O'Gorman, Lawrence, Michael J. Sammon, and Michael Seul. Practical Algorithms fo
 
 Ohno, Kazuo, and Naoto Fukasawa. John Maeda: Post Digital. International Media Research Foundation, Tokyo, 2001.
 
+Oram, Andy, and Greg Wilson. Beautiful Code: Leading Programmers Explain How They Think (Theory in Practice (O'Reilly)). O'Reilly Media, 2007.
+
 Papanek, Victor. Design for the Real World: Human Ecology and Social Change. Chicago Review Press, 2005.
 
 Parker, J. R. Algorithms for Image Processing and Computer Vision. Wiley, 2010.
@@ -155,6 +183,10 @@ Perevalov, Denis. Mastering openFrameworks: Creative Coding Demystified. Packt P
 Petzold, Charles. Code: The Hidden Language of Computer Hardware and Software. Microsoft Press, 2000.
 
 Potter, Jeff. Cooking for Geeks: Real Science, Great Hacks, and Good Food. O'Reilly Media, 2010.
+
+Reas, Casey, and Ben Fry. Getting Started with Processing. Maker Media, Inc, 2010.
+
+Reisdorph, Kent. Sams Teach Yourself C++ in 5 Days. Publisher, Year.
 
 Richardson, Matt, and Shawn Wallace. Getting Started with Raspberry Pi. Maker Media, Inc, 2013.
 
@@ -168,9 +200,15 @@ Rost, Randi J. OpenGL® Shading Language. Addison-Wesley Professional, 2006.
 
 Ruefle, Mary. Madness, Rack, and Honey: Collected Lectures. Wave Books, 2012.
 
+Saito, Atsushi Tadokoro, Akiko. Beyond Interaction. Publisher, Year.
+
 Sanchez, Mark, and Jerome Sans. What Do You Expect from an Art Institution in the 21st Century?. Palais de Tokyo, 2002.
 
+Sato, Euphrates + Masahiko. Midnight Animation. Publisher, Year.
+
 Savitch, Walter. Absolute C++. Addison-Wesley, 2009.
+
+Seibel, Peter. Coders at Work: Reflections on the Craft of Programming. Apress, 2009.
 
 Shiffman, Daniel. The Nature of Code: Simulating Natural Systems with Processing. The Nature of Code, 2012.
 
@@ -186,9 +224,11 @@ Stuart, Tom. Understanding Computation: From Simple Machines to Impossible Progr
 
 various. Make: (issue 32 (forging magic from plastic)). Publisher, 2012.
 
-various. Master Linux Now. Publisher, 2013.
+various. Raspberry Pi: The Complete Guide. Publisher, 2013.
 
 White, Ron. How Computers Work. Que, 2005.
+
+White, Ron. How Software Works. Ziff Davis Pr, 1993.
 
 Wilson, Scott, David Cottle, and Nick Collins. The SuperCollider Book. The MIT Press, 2011.
 
