@@ -10,7 +10,7 @@ Please direct questions, ideas, and other comments to: [casey@sfpc.io](mailto:ca
 
 ## About Us
 
-We are a group of artists, hackers and educators who are super committed to open source and open hardware, to radical openness and generosity. [read more &rarr;](http://sfpc.io/about/)
+We are a group of artists, hackers and educators who are super committed to open source and open hardware, to radical openness and generosity. [read more &rarr;](http://sfpc.io/mission/)
 
 ## About the School for Poetic Computation
 
