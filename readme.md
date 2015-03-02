@@ -2,7 +2,9 @@
 
 This is a repository of financial data and reflections on administration from the [School for Poetic Computation](http://sfpc.io). We're totally committed to keeping the public informed on how we make and spend money, and empowering our community to actively improve the way we run the school. We especially hope that by sharing our experiences, we can be helpful to those thinking about starting their own schools.
 
-So far we've published: [**/01 — a report on our first semester**](https://github.com/SFPC/finance-and-administration/tree/master/01).
+So far we've published: 
+[**/01 — a report on our first semester**](https://github.com/SFPC/finance-and-administration/tree/master/01).
+[**/03 — a top line overview of our third semester**](https://github.com/SFPC/finance-and-administration/tree/master/03).
 
 And with each iteration of SFPC, we'll add another folder.
 
