@@ -18,4 +18,4 @@ We are a group of artists, hackers and educators who are super committed to open
 
 ## About the School for Poetic Computation
 
-SFPC is an artist-run school which launched Fall 2013 in New York. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory — focusing especially on artistic intervention. It's a 10 week program, a hybrid of residency and research group, that will happen multiple times per year to be a powerboost for creativity. Our motto is: _more poetry, less demo.
+SFPC is an artist-run school which launched Fall 2013 in New York. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory — focusing especially on artistic intervention. It's a 10 week program, a hybrid of residency and research group, that will happen multiple times per year to be a powerboost for creativity. Our motto is: _more poetry, less demo_.
