@@ -4,10 +4,10 @@ This is a repository of financial data and reflections on administration from th
 
 So far we've published: 
 
-Reflections:
-- [**/01 — a report on our first semester**](https://github.com/SFPC/finance-and-administration/tree/master/01).
+**Reflections**:
+- [/01 — a report on our first semester](https://github.com/SFPC/finance-and-administration/tree/master/01).
 
-Profit & Loss Statements: 
+**Profit & Loss Statements**: 
 - Available for each quarter and year since we began ([2013](https://github.com/SFPC/finance-and-administration/tree/master/2013), [2014](https://github.com/SFPC/finance-and-administration/tree/master/2014), [2015](https://github.com/SFPC/finance-and-administration/tree/master/2015)) in PDF, XLSX, and CSV formats.
 
 Please direct questions, ideas, and other comments to: [info@sfpc.io](mailto:info@sfpc.io)
