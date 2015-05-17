@@ -192,7 +192,7 @@ Below is the complete list of visitors we paid:
 | Jacob Gaboury | Guest Lecture | $ |
 | Kyle McDonald | Guest Lecture | $  |
 | Brian Droitcour | Guest Lecture | $   |
-| Mmuseumm Curator | Art of Walking Fieldtrip | $  |
+| Museum Curator | Art of Walking Fieldtrip | $  |
 
 ## “To Radical Openness and Generosity”
 
