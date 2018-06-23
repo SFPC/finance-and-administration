@@ -25,7 +25,7 @@ Also, let me know if you _don’t_ want your money back. We’d be grateful to p
 
 As of January 21st, when I am writing this letter, our bank balance is $15,607.76. The reason I’m considering a $700 refund to be an emptying of our account is that we know we’re going to incur several expenses before taking in money for our next iteration:
 
-| Item | Cost |
+| Income  | Cost |
 | ------ | ----- |
 | Tuition refunds | $10,500 ($700 x 15 students) |
 | Accountant | $1300 |
