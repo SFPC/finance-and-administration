@@ -139,12 +139,9 @@ There were also additional reimbursements up to $1,040.20 made to Taeyoon and La
 
 # Day for Night 
 
-Day for Night was a music and visual art festival held in Houston, TX. in which we participated during December 2015. Here is an article about the installation we made for the event: 
+Day for Night was a music and visual art festival held in Houston, TX. in which we participated during December 2015. Here is an article about the installation we made for the event: [Link](http://www.dayfornight.io/index.php/2015/10/07/school-for-poetic-computation/)
 
-[Link](ttp://www.dayfornight.io/index.php/2015/10/07/school-for-poetic-computation/
-)
-
-A separate budget for this event was created to differentiate between event expenses and school expenses. Most expenses accrued after November 27th are included on this budget which can be found here:  [Inactive link]
+A separate budget for this event was created to differentiate between event expenses and school expenses. Most expenses accrued after November 27th are included on this budget which can be found here: [Inactive link]
 
 We agreed to a participation fee of $10k in addition to reimbursement of up to $1,500 for travel and an $1,500 for housing. All our invoices were sent in early January (with receipts) and have been fully reimbursed for travel and accommodation. We have received partial payment for the participation fee (50% at $5,000) and will continue to follow up to resolve the outstanding balance.  
 
