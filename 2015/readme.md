@@ -51,7 +51,7 @@ Rent for the 10 weeks of the Spring session and storage during the interim was p
 
 There was a short-term cash flow problem in June and July. Timely deposits for the summer programs weren’t made corresponding with various vendors cashing their rent check for the Spring session. 
 
-![image]()
+![image](https://github.com/SFPC/finance-and-administration/blob/master/2015/data/image2.png?raw=true)
 
 When the balance was below zero in the SFPC account. Taeyoon made a one-time deposit of $2000 from personal account to keep the balance positive. It was made in two payments between June 29th with $1200 and July 7th with $800. On July 27, when the balance was stable with the summer deposits, Taeyoon transferred $2000 back to the personal account.   
 
@@ -83,7 +83,9 @@ There was a little over $275 spent on various food related expenses during the s
 
 # Overview
 
-Interim (between Summer & Fall ‘15 sessions)
+![](https://github.com/SFPC/finance-and-administration/blob/master/2015/data/image1.png?raw=true)
+
+# Interim (between Summer & Fall ‘15 sessions)
 Recurring expenses were incurred for things such as subscriptions to accounting software, insurance and bank fees. 
 
 There was also a one time payment of $2,000 to Taeyoon for administration work done between sessions including but not limited to paying teachers/admins from summer, collecting payment from the students, updating the website, finding a new location to hold the Fall session and securing a lease, creating and promoting the call for attendees for the Fall session and organizing the student selection and responding to students. Additional admission work was donated by the steering committee and also external reviewers including Lauren McCarthy and SFPC alumni Katie Simillie and Andrew Kleindolph.  
