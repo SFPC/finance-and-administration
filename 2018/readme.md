@@ -31,7 +31,7 @@ We initially estimated expenses of $83,000 with $13,000 to reserved for SFPC. Th
 
 We have a budget sheet is actively utilized to manage the expenses. The amount in this summary may include minor errors due to delays in accounting software and human error. Taeyoon and his assistant will respond to fix any errors.   
 
-![image]() 
+![ expense image](https://github.com/SFPC/finance-and-administration/blob/master/2018/data/expenses.png?raw=true) 
 
 **Overhead & Services:** Includes rent, utilities and administrative services. It was $14,053.13 for six months. Although the spring session only runs from March to May, it made sense to include January to May for the spring budget because there was no other program active in that period. 
 
@@ -44,7 +44,7 @@ Classroom includes materials, tools for class, and Final Event includes services
 *Taeyoon’s suggestion: I’d like to have a conversation about developing more detailed categories for general expenses and expenses for future sessions. We also need to consider our monthly rent will rise to $3,000/month and there will be more expenses for space improvement and scaling the team.* 
 
 
-![Personnel expenses]()
+![Personnel expenses](https://github.com/SFPC/finance-and-administration/blob/master/2018/data/image4.png?raw=true)
 
 Total personnel expenses were $65,207.76. Estimated expenses was $65,815.00. 
 
@@ -59,11 +59,11 @@ Based on Lauren’s suggestion and forms, Taeyoon updated an agreement form. We 
 
 ## Teacher fee 
 
-We’ve had $500/session as a standard teaching pay for the last few years. The service includes 3 hours of teaching and 2 hours of office hours. While this is a fair pay compared to other universities in NYC, we may consider raising the pay to $600~700/session to reflect their workload and fairness. Teachers for short sessions (1~2 weeks) get paid up to $700 because short sessions are more profitable. We may need to talk about general teachers pay and sliding scale to reflect the overall budget of specific programs. 
+We’ve had $500/session as a standard teaching pay for the last few years. The service includes 3 hours of teaching and 2 hours of office hours. While this is a fair pay compared to other universities in NYC, we may consider raising the pay to $600 - 700/session to reflect their workload and fairness. Teachers for short sessions (1~2 weeks) get paid up to $700 because short sessions are more profitable. We may need to talk about general teachers pay and sliding scale to reflect the overall budget of specific programs. 
 
 How to fairly credit and pay for co-teachers? In the spring, 3 co-teachers had worked on the Craft track. We had individualized pay based on the amount of hours they worked. Kelli was paid more than others, because she worked two extra classes.
 
-*Taeyoon’s opinion: While the Craft class was a huge success in terms of academics, I feel like more than two co-teachers for a class is not desirable from the administration perspective. In the future, it’d be good to have a fixed formula for co teaching, and limit two to co-teachers. Question: Should we pay $300~400/session for co-teachers if they are splitting the workload?  What’s a fair pay scale?*   
+*Taeyoon’s opinion: While the Craft class was a huge success in terms of academics, I feel like more than two co-teachers for a class is not desirable from the administration perspective. In the future, it’d be good to have a fixed formula for co teaching, and limit two to co-teachers. Question: Should we pay $300 - 400/session for co-teachers if they are splitting the workload?  What’s a fair pay scale?*   
 
 ## TA fee
 TA fees were adjusted higher than previous terms. TAs played an important role in the session. TA duties should also include space maintenance and class documentation. It’d be good to plan having more TAs near the showcase. In the future, each TA may have different expectations and roles. The agreement should reflect our expectations of space maintenance, general healthiness of the space. Some TAs may focus on class documentation, installations and tech support. We may consider hiring a session TA, who assists with the general operations, assisting with bookkeeping and documentation. It’s also important to have an all hands (staff + TA + teachers) meeting before the session begins.   
@@ -97,7 +97,7 @@ In Spring 2018, Taeyoon oversaw admissions, administration, communications betwe
 
 SFPC is doing very well at the moment; there is a lot of love and support from the community. This would be a great time to push off toward the nonprofit route to secure external funding and build a solid foundation for a long term vision. 
 
-* Taeyoon’s suggestions: In the future, I’d like to have clear delegation, scheduling and decision making procedures for:  
+*Taeyoon’s suggestions: In the future, I’d like to have clear delegation, scheduling and decision making procedures for:* 
 
 1. Admin: Announcement, admissions and enrollment
 2. Hiring: Teacher selection and contracting  
@@ -106,7 +106,7 @@ SFPC is doing very well at the moment; there is a lot of love and support from t
 5. Teaching: Mentoring and working with students 
 6. Curating: Planning short term sessions and workshops 
 
-We are splitting the load in three ways, and sometimes it’s not clear. I feel I’m always doing a bit of everything between #1~6 and taking on more than I can handle. Here are my suggestions.* 
+*We are splitting the load in three ways, and sometimes it’s not clear. I feel I’m always doing a bit of everything between #1~6 and taking on more than I can handle. Here are my suggestions.* 
 
 #1 Admin can be delegated to another SFPC staff, but not a TA or an outside professional. 
 
