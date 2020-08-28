@@ -3,13 +3,13 @@ This report is meant to provide a high level, narrative view of School for Poeti
 
 The purpose is to provide insight and clarity that will help the board or future organizers understand how to schedule programming to be profitable or understand what reserves need to be in place in order to run a program at no profit. This budget narrative will show income and expenses and further delineate expenses between overhead and program related expenses.
 
-*This report was written by Lauren Gardner, a Partner at SFPC in July 2020.*
+*This report was written in July 2019 by Lauren Gardner, a Partner at SFPC.*
 
 ## Income and Expenses
 SFPC began Jan 2019 with a balance of $113,000. Approximately 40% was profit generated from 2018 but 60% of the balance was tuition deposits made in December 2018 for the 2019 Spring intensive and 2019 January Code Societies programs. So 60% of this balance was already earmarked for upcoming program expenses. In 2019, SFPC made $343,816 in income and had $431,291 in expenses resulting in a deficit of $-84,475.  
 
 *Grey line is bank balance - Green line is income (gross) - Orange line is expenses*
-![2019overview](https://github.com/SFPC/finance-and-administration/2019/data/2019overview.png)
+![2019overview](https://github.com/SFPC/finance-and-administration/blob/master/2019/data/2019overview.png)
 
 ## Income
 Of the total $343,816 in income, almost 80% was generated in tuition sales and 20% in sponsorship of the programming. This is gross income, the amount earned before expenses and taxes.
@@ -20,14 +20,14 @@ Of the total $343,816 in income, almost 80% was generated in tuition sales and 2
   - **Rentals** are when we lease our space or items to other schools or orgs.
   - **Other Revenue** examples are income generated through sales of merch, zines or refunds of items we have purchased.
 
-![incomesource](https://github.com/SFPC/finance-and-administration/2019/data/incomesource.png)
+![incomesource](https://github.com/SFPC/finance-and-administration/blob/master/2019/data/incomesource.png)
 
 
 Two programs we ran in 2019 were sponsored. *Poetic Computation: Detroit* was supported by the [Knight Foundation](https://knightfoundation.org/) and *SFPC Summer 2019 in Yamaguchi* was hosted by [YCAM](https://www.ycam.jp/en/). The generous support from these organizations covered the operational costs of running the programs including but not limited to space, salary, lodging, travel, materials, etc.
 
 We were active throughout the year but from May through July, we spent a majority of our time preparing for our two remote programs in Detroit and Japan which resulted in five months of low revenue.
 
-![revenuebymonth](https://github.com/SFPC/finance-and-administration/2019/data/revenuebymonth.png)
+![revenuebymonth](https://github.com/SFPC/finance-and-administration/blob/master/2019/data/revenuebymonth.png)
 
 In 2019 we ran more than 7 programs
   - Code Societies; Jan (3 week program)
@@ -44,11 +44,10 @@ In addition, we hosted various workshops & rentals
 
 ## Expenses (overhead / programmatic)
 In 2019, over 75% of expenses were in direct support of programs, the remaining 25% supported overhead and operations.
-  - **Programmatic Expenses** directly reflect any cost related to supporting classes, workshops or events. This number is actually 80% when you factor in rent/utilities used during programs.
+  - **Programmatic Expenses** directly reflect any cost related to supporting classes, workshops or events. *This number is actually 80% when you factor in rent/utilities used during programs.*
   - **Operational Expenses** are expenses that indirectly support programming including rent, equipment, marketing, payroll, outside professional services, insurance, and funds allocated for research and development or professional development.
 
-![expenses](https://github.com/SFPC/finance-and-administration/2019/data/expenses.png)
-
+![expenses](https://github.com/SFPC/finance-and-administration/blob/master/2019/data/expenses.png)
 
 
 
@@ -65,7 +64,7 @@ We always try to budget generously for food because we have found that providing
 
 Marketing was a higher amount this year because we wanted to create a comprehensive final report for our session in Detroit. We hired external contractors to help us photograph, film and compile footage from the events and interview the students to gather their feedback and experiences. In addition to the video documentation, we hired contractors to help us compile a zine to summarize learnings from running this remote session.
 
-![programs](https://github.com/SFPC/finance-and-administration/2019/data/programandevents.png)
+![programs](https://github.com/SFPC/finance-and-administration/blob/master/2019/data/programandevents.png)
 
 
 #### Overhead Expenses
@@ -74,14 +73,15 @@ It is important to note that in addition to the  $1,500 per month stipend, admin
 
 The second largest expense at 24% was rent at our space in the Westbeth Artists Housing.
 
-At 8% are distribution expenses which are reimbursements to LLC owners for 2018 “phantom income” incurred on behalf of the organization. To be clear, this is not to cover personal tax burden but as SFPC is a passthrough LLC, the owners are responsible for paying the taxes on any profits SFPC has at the end of the year. For reference:
-[]“The tax distributions from the LLC are reported on the member’s IRS Form 1040 Schedule C as self-employment income. Even if the LLC does not actually pay a dividend to its member(s) in cash, but retains the funds for cash-flow reasons or reinvestment purposes, the income still appears on the member’s income taxes. This often results in “phantom income,” a tax liability for income not actually received.”](https://www.incnow.com/blog/2019/03/29/capital-contributions-distributions/#:~:text=The%20tax%20distributions%20from%20the,on%20the%20member's%20income%20taxes.)
+At 8% are distribution expenses which are reimbursements to LLC owners for 2018 “phantom income” incurred on behalf of the organization. To be clear, this is not to cover personal tax burden but as SFPC is a passthrough LLC, the owners are responsible for paying the taxes on any profits SFPC has at the end of the year.
+For reference:
+[“The tax distributions from the LLC are reported on the member’s IRS Form 1040 Schedule C as self-employment income. Even if the LLC does not actually pay a dividend to its member(s) in cash, but retains the funds for cash-flow reasons or reinvestment purposes, the income still appears on the member’s income taxes. This often results in “phantom income,” a tax liability for income not actually received.”](https://www.incnow.com/blog/2019/03/29/capital-contributions-distributions/#:~:text=The%20tax%20distributions%20from%20the,on%20the%20member's%20income%20taxes.)
 For example, if a partner was paid 30,000$ but the k1 says 44,000$ (because of SFPC’s profit), there is a 14,000$ additional tax burden for that partner. SFPC covers the taxes only on that difference.  All profits generated by SFPC stay within the school’s bank account and are not disbursed to the LLC holders.
 
 General Expenses include anything needed for the space like furniture or cleaning supplies. New locks and keys were needed this year due to a theft in our space and this ran us over $700. We pay for general insurance for the space to cover our equipment and liability of the students/staff and visitors. Consulting and accounting feels include CPA and bookkeeping costs. Telephone and internet covers wifi in our space. We bought a new mac mini this year to use for streaming and archiving which is the majority of the computer expenses. All ‘other’ expenses include costs for software needed including vimeo, domain hosting, mailchimp newsletter hosting, airtable for forms and contacts and any other items needed for the space that are not specific to a program including paper towels or trash bags.  
 
 
-![overhead](https://github.com/SFPC/finance-and-administration/2019/data/overhead.png)
+![overhead](https://github.com/SFPC/finance-and-administration/blob/master/2019/data/overhead.png)
 
 
 
@@ -90,19 +90,19 @@ General Expenses include anything needed for the space like furniture or cleanin
 
 #### Why did we have a deficit?
 
-*######Started to pay admins throughout the year vs. just paying them during programs*
+__*Started to pay admins throughout the year vs. just paying them during programs*__
 
 Before 2019, SFPC’s budgeting practices for administrator’s wages were 100% programmatic. This meant that any money paid to admins or organizers was incorporated into a specific program or event they were working on. The benefit of this practice is that it is easier to budget for a program’s profitability by reducing the overhead costs. The negative was there would be a few months where admins were doing work, but not receiving full pay.
 
 We made a decision with the board to pay a stipend of $1,500 per month for admins to continue working throughout the year. Our hope is that by better recognizing and respecting the ongoing work needed to run the school and administer/organize the programs, we would start to create paying positions within the organization which is something we want to do as we transfer to a new business model. We instituted this change in Spring knowing it would adversely affect the budget but felt this was an important enough change to deal with repercussions if it meant admins could dedicate time to the organization and not have to work extra jobs.
 
-*######Ran two programs designed to break even without plan to augment the loss of revenue*
+__*Ran two programs designed to break even without plan to augment the loss of revenue*__
 
 We knew which programs are profitable and which only break even. Both are important to our mission but the ones that are not profitable help us build a deeper, more engaged community which is something we strive for. The ten-week sessions and remote programs allow us to build deep relationships with students and work with other artists' spaces and organizations but because of time or travel, there are more expenses involved making it harder for these programs to break even.
 
 Ideally, we would balance the year with a mix of short and long sessions to cover our overhead. Because the opportunity arose to do both the Detroit and Japan program in the same year, we were unable to schedule short programs at the end of the Spring 10-week session as we were using that time period to plan for the remote sessions.
 
-*######Changed programming schedule without revisiting budget*
+__*Changed programming schedule without revisiting budget*__
 
 This brought up a larger structural concern which was, ‘as an organization, how do we make decisions about what programs to do’. While the sponsored programs aligned with our mission and had a positive impact in outreach, they affected our typical programming schedules and ability to earn income. Both types of programming are important but without a reserve in capital, it is harder to invest in new programs or people.
 
