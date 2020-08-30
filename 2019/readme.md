@@ -5,6 +5,10 @@ The purpose is to provide insight and clarity that will help the board or future
 
 *This report was written in July 2019 by Lauren Gardner, a Partner at SFPC.*
 
+*Disclaimer - The purpose of this report is to provide general information about SFPC financial activity. The information is provided for reference only to help inform our business decisions. I make this report as a budget to project yearly revenue and update it through the year including invoices to see future income and expenses. The budget is generated from both cash and invoices/bills (accrual) but our reporting for taxes are compiled without invoices (cash) to show actuals from the year. To make this end of year report, I reconcile duplicates between the two and it’s a mix of both.
+
+e.g. The contracted amount of payment for YCAM was $12,500 recognized as September revenue as an invoice recognized on the budget report but due to paperwork/IRS and ancillary costs it shows up on our actuals and for tax purposes as revenue for Jan 2020 for $11,913.48. I chose to include the 11k in this 2019 report to illustrate income from Sponsorships earned through programs delivered in 2019 even though the income was recognized in 2020.*
+
 ## Income and Expenses
 SFPC began Jan 2019 with a balance of $113,000. Approximately 40% was profit generated from 2018 but 60% of the balance was tuition deposits made in December 2018 for the 2019 Spring intensive and 2019 January Code Societies programs. So 60% of this balance was already earmarked for upcoming program expenses. In 2019, SFPC made $343,816 in income and had $431,291 in expenses resulting in a deficit of $-84,475.  
 
@@ -36,6 +40,7 @@ In 2019 we ran more than 7 programs
   - Poetic Computation: Detroit; Aug (1 week)
   - SFPC Summer in Yamaguchi at YCAM; Sep (2 weeks)
   - Fall 2019; Sep - Dec (11 weeks)
+
 In addition, we hosted various workshops & rentals
   - [Math as a Religious experience](https://sfpc.io/religiousmath/), Feb
   - [Code Movement: Workshop by Cori Kresge](https://sfpc.io/classes/movement/), Spring & Fall
