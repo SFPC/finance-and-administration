@@ -1,14 +1,15 @@
 # “To Radical Openness and Generosity”
 
-This is a repository of financial data and reflections on administration from the [School for Poetic Computation](http://sfpc.io). We're totally committed to keeping the public informed on how we make and spend money, and empowering our community to actively improve the way we run the school. We especially hope that by sharing our experiences, we can be helpful to those thinking about starting their own schools.
+This is a repository of financial data and reflections on administration from the [School for Poetic Computation](http://sfpc.io). We're committed to keeping the public informed on how we make and spend money, and empowering our community to actively improve the way we run the school. We especially hope that by sharing our experiences, we can be helpful to those thinking about starting their own schools.
 
-So far we've published: 
-
-**Reflections**:
+**Budgets in Financial Narrative form**
+- [2019 - full year](https://github.com/SFPC/finance-and-administration/tree/master/2019)
+- [2018 - Spring](https://github.com/SFPC/finance-and-administration/tree/master/2018)
+- [2015 - full year](https://github.com/SFPC/finance-and-administration/tree/master/2015)
 - [/01 — a report on our first semester](https://github.com/SFPC/finance-and-administration/tree/master/01).
 
-**Profit & Loss Statements**: 
-- Available for each quarter and year since we began ([2013](https://github.com/SFPC/finance-and-administration/tree/master/2013), [2014](https://github.com/SFPC/finance-and-administration/tree/master/2014), [2015](https://github.com/SFPC/finance-and-administration/tree/master/2015)) in PDF, XLSX, and CSV formats.
+**Profit & Loss Statements**:
+- Available for the following years ([2013](https://github.com/SFPC/finance-and-administration/tree/master/2013), [2014](https://github.com/SFPC/finance-and-administration/tree/master/2014), [2015](https://github.com/SFPC/finance-and-administration/tree/master/2015)) in PDF, XLSX, and CSV formats.
 
 Please direct questions, ideas, and other comments to: [info@sfpc.io](mailto:info@sfpc.io)
 
